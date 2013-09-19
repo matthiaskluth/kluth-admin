@@ -1,0 +1,24 @@
+{
+    "name": "kluth/admin",
+    "description": "This is just a admin user interface",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Matthias Kluth",
+            "email": "matthias@kluth.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Kluth\\Admin": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
