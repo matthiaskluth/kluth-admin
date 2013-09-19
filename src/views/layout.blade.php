@@ -23,6 +23,12 @@
 			</button>
 			<a class="navbar-brand" href="#">Cafe Fleischlos</a>
 		</div>
+		<div class="collapse navbar-collapse navbar-ex1-collapse">
+		    <ul class="nav navbar-nav">
+		      <li class="active"><a href="#">Home</a></li>
+		      <li><a href="#">Stammdaten</a></li>
+		    </ul>
+	    </div>
 	</nav>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="//code.jquery.com/jquery.js"></script>
