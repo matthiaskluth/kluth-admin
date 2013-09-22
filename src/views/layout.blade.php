@@ -31,7 +31,7 @@
 	    </div>
 	</nav>
 	<div class="container">
-		Hello, world!
+		@yield('main')
 	</div>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="//code.jquery.com/jquery.js"></script>
