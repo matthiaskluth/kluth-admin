@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
 	<title>Adminoberfläche</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,7 +30,7 @@
 		    </ul>
 	    </div>
 	</nav>
-	<div class="container">
+	<div class="container starter-template">
 		<h1>@yield('page-title')</h1>
 		@yield('main')
 	</div>
