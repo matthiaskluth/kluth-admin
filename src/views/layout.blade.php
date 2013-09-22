@@ -27,6 +27,13 @@
 		    <ul class="nav navbar-nav">
 		      <li class="active"><a href="#">Home</a></li>
 		      <li><a href="#">Stammdaten</a></li>
+		      <li><a href="#">Presse</a></li>
+		      <li><a href="#">Karten</a></li>
+		      <li><a href="#">Kontaktanfragen</a></li>
+		      <li><a href="#">Gästebuch</a></li>
+		      <li><a href="#">Events</a></li>
+		      <li><a href="#">Alben</a></li>
+		      <li><a href="#">Texte</a></li>
 		    </ul>
 	    </div>
 	</nav>
