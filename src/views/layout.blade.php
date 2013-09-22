@@ -31,6 +31,7 @@
 	    </div>
 	</nav>
 	<div class="container">
+		<h1>@yield('page-title')</h1>
 		@yield('main')
 	</div>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
